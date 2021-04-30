@@ -1,0 +1,12 @@
+101,Amit,ICICI-Bank,6500
+102,Ramesh,LIC,6500
+103,Neha,ICICI-Bank,6500
+104,Sarita,HP,6500
+105,Rahul,Dell,6500
+106,kirti,HP,6500
+107,Kalpana,ICICI-Bank,6500
+108,Kapil,HP,6500
+109,Gaurav,Dell,6500
+110,Sachin,LIC,6500
+111,Virat,Dell,6500
+

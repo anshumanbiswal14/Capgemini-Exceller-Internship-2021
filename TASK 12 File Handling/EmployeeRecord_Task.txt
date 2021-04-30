@@ -1,0 +1,6 @@
+Read file Employee record
+and create Map
+
+Map<String,List<Employee>>
+ String :- Department Name
+ List<Employee> :- List of Employees in particular Department 
