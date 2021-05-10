@@ -34,7 +34,7 @@
 	 
 	 <bean id="course1" class="com.capg.student.beans.Courses">
 	 	<property name="courseId" value="101"></property>
-	 	<property name="courseName" value="BlockChain Essensials"></property>
+	 	<property name="courseName" value="BlockChain Essentials"></property>
 	 	<property name="facultyName" value="Mr.Asish"></property>
 	 	
 	  </bean>
